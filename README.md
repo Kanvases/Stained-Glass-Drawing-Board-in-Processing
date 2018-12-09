@@ -8,4 +8,4 @@ A assignment in my Interactive Media Course, again.
 - add its' names to `path.txt`
 - run `./suport/mosicScript.m` on Matlab
 
-you can find the demo video on my [blog](https://www.kanvasesfan.me/?p=75&preview_id=75&preview_nonce=29e92375ef&preview=true&_thumbnail_id=76)
+demo video can be found on my [blog](https://www.kanvasesfan.me/?p=75&preview_id=75&preview_nonce=29e92375ef&preview=true&_thumbnail_id=76)
